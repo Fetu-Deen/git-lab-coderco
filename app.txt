@@ -1,1 +1,2 @@
 From branch
+new line from feature
